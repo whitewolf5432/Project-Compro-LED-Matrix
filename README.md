@@ -9,16 +9,23 @@
 
 <h2>Model</h2>
 <li>ARDUINO NANO<br>
-  <img width="400px"src="https://images.unsplash.com/photo-1593059126588-42d0198f6e0e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXJkdWlubyUyMG5hbm98ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60">
+  	<img width="400px"src="https://images.unsplash.com/photo-1593059126588-42d0198f6e0e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXJkdWlubyUyMG5hbm98ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60">
 <li>SHIFT REGISTER IC 74595<br>
-  <img src="">
+  	<img width="400px"height="300px"src="https://megaeshop.pk/media/catalog/product/7/4/74hc595-shift-register-ic_1_.jpg">
 <li>ZERO PCB<br>
+	<img width="400px"height="300px"src="https://images-na.ssl-images-amazon.com/images/I/51ow5wlcU3L.jpg">
 <li>LEDs (ANY COLOUR)<br>
+	<img width="400px"height="300px"src="http://k.lnwfile.com/ajzomd.jpg">
 <li>RESISTOR 100 OHM<br>
+	<img width="400px"height="300px"src="https://cdn3.volusion.com/btfzd.umflq/v/vspfiles/photos/R62100K-2.jpg?v-cache=1432489385">
 <li>16 PIN IC BASE<br>
+	<img width="400px"height="300px"src="https://www.pcboard.ca/image/cache/catalog/products/ic-socket/ICS-16-N-800x800.jpg">
 <li>MALE AND FEMALE HEADER<br>
+	<img width="400px"height="300px"src="http://dx.lnwfile.com/vnr7dx.jpg">
 <li>CONNECTING WIRES<br>
+	<img width="400px"height="300px"src="https://i1.wp.com/www.nuttyengineer.com/wp-content/uploads/2018/10/F-F-jumper-nutty.jpg?fit=500%2C550&ssl=1">
 <li>3805 5 VOLT REGULATOR IC<br> 
+	<img width="400px"height="300px"src="https://components101.com/file_image/78L05-Voltage-Regulator.jpg">
 
 <h2>Abstract</h2>
   โปรเจคนี้มีจุดประสงค์เพื่อ สอนการใช้จอ 8x8 ในการฝึกฝนการใช้อุปกรณ์
